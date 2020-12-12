@@ -44,8 +44,9 @@ Big thanks and much respect goes to these wonderful people ([emoji key](https://
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
+
   <tr>
-    <td align="center"><a href="https://github.com/tobi110289"><img src="https://avatars1.githubusercontent.com/u/63813520?v=4" width="100px;" alt=""/><br /><sub><b>Tobias Feltes</b></sub></a><br /><a href="https://github.com/Kochlyfe/Minions-of-Disruption-public-org/commits?author=tobi110289" title="Code">💻</a> <a href="#ideas-tobi110289" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/tobi110289"><img src="https://avatars1.githubusercontent.com/u/63813520?v=4" width="100px;" alt=""/><br /><sub><b>Tobias Feltes</b></sub></a><br /><a href="https://github.com/Kochlyfe/Minions-of-Disruption-public-org/commits?author=tobi110289" title="Code">💻</a> title="Sound Effects">🔊</a> <a href="#ideas-tobi110289" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/innaDE"><img src="https://avatars2.githubusercontent.com/u/69368038?v=4" width="100px;" alt=""/><br /><sub><b>Inna Druzina</b></sub></a><br /><a href="https://github.com/Kochlyfe/Minions-of-Disruption-public-org/commits?author=innaDE" title="Code">💻</a> <a href="#design-innaDE" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/pbroeker"><img src="https://avatars0.githubusercontent.com/u/49947183?v=4" width="100px;" alt=""/><br /><sub><b>Philipp Broeker</b></sub></a><br /><a href="https://github.com/Kochlyfe/Minions-of-Disruption-public-org/commits?author=pbroeker" title="Code">💻</a> <a href="#infra-pbroeker" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/Kochlyfe"><img src="https://avatars1.githubusercontent.com/u/37308317?v=4" width="100px;" alt=""/><br /><sub><b>Joachim Koch</b></sub></a><br /><a href="https://github.com/Kochlyfe/Minions-of-Disruption-public-org/commits?author=Kochlyfe" title="Code">💻</a></td>
