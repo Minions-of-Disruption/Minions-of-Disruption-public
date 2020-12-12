@@ -23,6 +23,7 @@ The MVP of the game (featured screenshots) was build in 10 days by the wonderful
 - [GreenSock](https://greensock.com/)
 - [Socket.io](https://socket.io/)
 - [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
 
 ## Future Tasks :earth_africa:
 ```
